@@ -1,3 +1,11 @@
+A React-Native App that links Taxi Drivers and Passengers.
+
+Socket.io server to connect Passengers and Drivers in real time with Node Express Backend
+
+Socket.io Repo: [https://github.com/muhammadalizkhan/CreamAppSokectIO]
+
+NodeExpressBackend Repo: [https://github.com/muhammadalizkhan/CreamAppExpressNodeBackend]
+
 ## Functionalities
 * Sign up / Login / Authentication
 * Passenger type a location on the search box and the app will determine and trace the route on the Google Map Api.
